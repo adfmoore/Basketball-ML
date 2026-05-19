@@ -1,0 +1,1 @@
+This repo is dedicated towards various small ML projects used to study and make predictions about the NBA.
